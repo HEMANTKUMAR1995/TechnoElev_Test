@@ -1,0 +1,9 @@
+.cssStyle {
+  display: inline-table;
+  border: 2.5px solid rgb(112, 121, 171);
+  padding: 10px;
+  color: rgba(38, 164, 195, 0.555);
+  border-radius: 5px;
+  box-shadow: rgb(60, 86, 230);
+}
+    
